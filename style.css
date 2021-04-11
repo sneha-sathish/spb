@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    margin: 0%;
+    padding: 0%S;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+h1{
+    font-family: cursive;
+}
+
+h2{
+    font-family: cursive;
+    padding-left: 40px;
+}
+
+.nav-item{
+    
+    color: rgb(250, 248, 237);
+    font-size: medium;
+   
+}
+
+.nav-item li a:hover{
+background-color: blanchedalmond;
+}
+
+
+.section1{
+    padding: 20px;
+}
+
+.img-fluid{
+    height:350px;
+    border: 1px solid black;
+    border-radius: 50px; 
+}
+
+.content{
+    margin: 30px;
+}
+.content img{
+    display: flex;
+}
+.card{
+      margin-left: 10px;
+ } 
+.card-body{
+    /* margin: 10px; */
+}
+.card-img{
+    
+    width: 100%;
+}
+.overlay{
+    width: 100%;
+}
+.form{
+    /* width: auto; */
+    resize: vertical;
+}
